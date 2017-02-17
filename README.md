@@ -10,7 +10,7 @@ Compatible with: Office 365/SharePoint Online, SharePoint 2016, SharePoint 2013,
 - Even works in secure environments where the following are forbidden:
     - client-side internet
     - server-side internet
-    - SharePoint Add-ins/Apps for SharePoint
+    - SharePoint Add-ins (formerly known as: Apps for SharePoint)
 
 Main projects:
 
