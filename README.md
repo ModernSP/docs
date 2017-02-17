@@ -7,4 +7,7 @@ Compatible with: Office 365/SharePoint Online, SharePoint 2016, SharePoint 2013,
 - Makes migrating your skills to the [SharePoint Framework (SPFx)](https://dev.office.com/sharepoint/docs/spfx/sharepoint-framework-overview) much easier.
 
 Main projects:
-- [https://github.com/ModernSP/NPM.CliAndApi](ModernSP NPM CLI and API)
+
+| Project | Description |
+| --- | --- |
+| [NPM.CliAndApi](https://github.com/ModernSP/NPM.CliAndApi) | An NPM CLI and API that ensures all npm dependencies are updated and present |
