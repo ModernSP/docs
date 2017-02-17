@@ -1,4 +1,3 @@
-
 # ModernSP
 A set of reusable components to make modern SharePoint customization easier and safer.
 
@@ -16,4 +15,4 @@ Main projects:
 
 | Project | Description |
 | --- | --- |
-| [NPM.CliAndApi](https://github.com/ModernSP/NPM.CliAndApi) | A Node Package Manager (NPM) command line interface (CLI) and custom Application Programming Interface (API) that ensures all modernsp dependencies are updated and present |
+| [ModernSP.NPM.CliAndApi](https://github.com/ModernSP/NPM.CliAndApi) | A Node Package Manager (NPM) command line interface (CLI) and custom Application Programming Interface (API) that ensures all modernsp dependencies are updated and present |
