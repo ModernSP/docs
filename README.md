@@ -8,6 +8,7 @@ Compatible with: Office 365/SharePoint Online, SharePoint 2016, SharePoint 2013,
 - Reduces SharePoint farm administrator burden
 - Migrates to newer versions of SharePoint seamlessly
 - Even works in secure environments where the following are forbidden:
+    - client-side internet
     - server-side internet
     - SharePoint Add-ins/Apps for SharePoint
 
