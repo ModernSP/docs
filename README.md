@@ -16,4 +16,4 @@ Main projects:
 
 | Project | Description |
 | --- | --- |
-| [ModernSP.NPM.CliAndApi](https://github.com/ModernSP/NPM.CliAndApi) | A Node Package Manager (NPM) command line interface (CLI) and custom Application Programming Interface (API) that ensures all modernsp dependencies are updated and present |
+| [ModernSP.NPM.Cli](https://github.com/ModernSP/NPM.Cli) | A Node Package Manager (NPM) command line interface (CLI) that ensures all modernsp dependencies are updated and present |
